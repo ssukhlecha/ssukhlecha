@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssukhlecha
-- 👀 I’m interested in springboot projects.
+- 👀 I’m interested in software development and system designs.
 - 💞️ I’m looking to collaborate on backend development projects
-- 📫 Reach me @ +91 800 783 4027
+- 📫 Reach me email.
 
 <!---
 ssukhlecha/ssukhlecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
