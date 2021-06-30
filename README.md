@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ssukhlecha
-- 👀 I’m interested in software development and system designs.
+- 👋 Hi, I’m Sachin Sukhlecha
+- 👀 I’m interested in software development and designing scalable distributed systems.
 - 💞️ I’m looking to collaborate on backend development projects
-- 📫 Reach me email.
+- 📫 see LinkedIn for details or get in touch via email
 
 <!---
 ssukhlecha/ssukhlecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
